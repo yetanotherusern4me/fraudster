@@ -1,2 +1,2 @@
-# fraud-shopper
-Stop fraudulant sellers everwhere
+# fraud-finder
+TOOL checks quickly if a product has reviews indicative of foul play, before you buy!
