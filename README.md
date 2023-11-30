@@ -1,2 +1,3 @@
 # fraud-finder
-TOOL checks quickly if a product has reviews indicative of foul play, before you buy!
+a python query TOOL checks quickly whether reviews are actually good or just saturated with bot reviews.
+
